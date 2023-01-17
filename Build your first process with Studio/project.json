@@ -1,6 +1,6 @@
 {
-  "name": "StudioInterface_Windows",
-  "description": "Processo para explorar a interfacd do  Studio",
+  "name": "Build your first process with Studio",
+  "description": "build a simple process with uipath studio",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.17.0-preview]",
@@ -48,7 +48,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "0de510b5-d943-4e39-a26c-ac56ec48755f",
+      "uniqueId": "d9c5527e-917e-4db6-a56c-6671c1b31d68",
       "input": [],
       "output": []
     }
